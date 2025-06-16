@@ -19,6 +19,7 @@ mkdir -p ~/.local/share/icons/hicolor/symbolic/apps/
 mv minecraft-launcher.svg ~/.local/share/icons/hicolor/symbolic/apps/
 
 chmod +x ~/.local/share/applications/minecraft-launcher.desktop
+
 update-desktop-database ~/.local/share/applications/
 ```
 ## System-wide installation
